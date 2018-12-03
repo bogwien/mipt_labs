@@ -1,3 +1,5 @@
+# Вычислите возведение числа в степень
+
 print('Input number:')
 number = int(input())
 

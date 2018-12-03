@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+# Постройте график функции Вейерштрасса
 alfa = 3
 beta = 0.9
 
